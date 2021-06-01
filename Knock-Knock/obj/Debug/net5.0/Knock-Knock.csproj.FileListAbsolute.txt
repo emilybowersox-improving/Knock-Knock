@@ -1,0 +1,16 @@
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\bin\Debug\net5.0\Knock-Knock.exe
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\bin\Debug\net5.0\Knock-Knock.deps.json
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\bin\Debug\net5.0\Knock-Knock.runtimeconfig.json
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\bin\Debug\net5.0\Knock-Knock.runtimeconfig.dev.json
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\bin\Debug\net5.0\Knock-Knock.dll
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\bin\Debug\net5.0\ref\Knock-Knock.dll
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\bin\Debug\net5.0\Knock-Knock.pdb
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.csprojAssemblyReference.cache
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.AssemblyInfoInputs.cache
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.AssemblyInfo.cs
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.csproj.CoreCompileInputs.cache
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.dll
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\ref\Knock-Knock.dll
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.pdb
+C:\Users\EmilyBowersox\source\repos\Knock-Knock\Knock-Knock\obj\Debug\net5.0\Knock-Knock.genruntimeconfig.cache
